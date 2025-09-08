@@ -14,9 +14,6 @@
 :set shiftwidth=4
 :set cursorline
 
-":set pythondll=/home/yinghao/miniforge3/bin/python
-":set pythonthreedll=/home/yinghao/miniforge3/bin/python
-
 "VANILLA VIM KEYBINDS
 
 let g:mapleader=" "
@@ -45,7 +42,6 @@ Plug 'wikitopian/hardmode'			"toggles no arrow keys no hjkl
 Plug 'valloric/youcompleteme'			"finally got it working autocomplete
 						"and error checker but not necceeary
 Plug 'tpope/vim-vinegar'
-"Plug 'kassio/neoterm'				reuse terminal? what?
 Plug 'dense-analysis/ale'			"linter, idk if works with ycm, feels slow
 "Plug 'glench/vim-jinja2-syntax'			"jinja2 template syntax and stuff
 "Plug 'mattn/emmet-vim'				"for html
