@@ -1,3 +1,3 @@
 # misc
 
-dot files and wallpapers
+stuff
